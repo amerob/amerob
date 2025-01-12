@@ -1,7 +1,7 @@
 # Hi 👋, I'm Amer Hussein
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🧑‍💻+I'm+a+Data+Scientist;🤖+I'm+a+Robotics+Engineer)](https://git.io/typing-svg)
+[![GIF]([https://rawgithubusercontent.com/amerob/amerob/blob/main/profile%20(2).gif])
 
 
 #### `KNOWLEDGE IS POWER 💡` 
