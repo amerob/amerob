@@ -1,7 +1,7 @@
 # Hi 👋, I'm Amer Hussein
 
 
-![GIF](https://raw.githubusercontent.com/amerob/amerob/main/profbanner.gif)
+![GIF](https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif)
 
 
 #### `KNOWLEDGE IS POWER 💡` 
