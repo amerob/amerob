@@ -26,6 +26,9 @@
   <img height="30" src="https://user-images.githubusercontent.com/67054356/131631712-a329b0dc-7ad2-4c7f-a8f8-55e92e7261df.png" alt="HTML5" title="HTML5">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/131631824-19e6f5c7-311c-4a78-9e56-49fed5162565.png" alt="CSS3" title="CSS3">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/122631297-90be4e80-d0d3-11eb-90e3-dd7c46d5a42e.png" alt="SQL" title="SQL">
+  <img height="30" src="https://github.com/user-attachments/assets/2e6d5b3a-c186-48f5-a976-f8ba40fcc8e6" alt="Matlab" title="Matlab">
+
+
 </div>
 
 ---
