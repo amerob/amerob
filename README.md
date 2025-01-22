@@ -24,11 +24,11 @@
 
 <div>
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png" alt="Python" title="Python">
-  <img height="30" src="https://user-images.githubusercontent.com/67054356/131630402-baa839b4-7c23-4fc7-86dd-4a34b555e725.png" alt="C++" title="C++">
-  <img height="30" src="https://user-images.githubusercontent.com/67054356/131631974-ac93d19c-6822-4839-b171-035cbd3bac90.png" alt="JavaScript" title="JavaScript">
-  <img height="30" src="https://user-images.githubusercontent.com/67054356/131631712-a329b0dc-7ad2-4c7f-a8f8-55e92e7261df.png" alt="HTML5" title="HTML5">
-  <img height="30" src="https://user-images.githubusercontent.com/67054356/131631824-19e6f5c7-311c-4a78-9e56-49fed5162565.png" alt="CSS3" title="CSS3">
-  <img height="30" src="https://user-images.githubusercontent.com/67054356/122631297-90be4e80-d0d3-11eb-90e3-dd7c46d5a42e.png" alt="SQL" title="SQL">
+  <img height="30" src="https://user-images.githubusercontent.com/67054356/131630402-baa839b4-7c23-4fc7-86dd-4a34b555e725.png" alt="R title="R">
+  <img height="30" src="https://user-images.githubusercontent.com/67054356/131631974-ac93d19c-6822-4839-b171-035cbd3bac90.png" alt="HTML5" title="HTML5">
+  <img height="30" src="https://user-images.githubusercontent.com/67054356/131631712-a329b0dc-7ad2-4c7f-a8f8-55e92e7261df.png" alt="CSS" title="CSS">
+  <img height="30" src="https://user-images.githubusercontent.com/67054356/131631824-19e6f5c7-311c-4a78-9e56-49fed5162565.png" alt="Javascript" title="Javascript">
+  <img height="30" src="https://user-images.githubusercontent.com/67054356/122631297-90be4e80-d0d3-11eb-90e3-dd7c46d5a42e.png" alt="C++" title="C++">
   <img height="30" src="https://github.com/user-attachments/assets/2e6d5b3a-c186-48f5-a976-f8ba40fcc8e6" alt="Matlab" title="Matlab">
 
 
@@ -43,6 +43,7 @@
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115026359-130b7600-9ecb-11eb-876a-bb66a68a1d11.png" alt="Keras" title="Keras">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115026566-51a13080-9ecb-11eb-848c-1767a735c491.png" alt="PyTorch" title="PyTorch">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115027978-0851e080-9ecd-11eb-99fd-bb9298477b39.png" alt="OpenCV" title="OpenCV">
+  <img height="30" src="https://github.com/user-attachments/assets/4a234151-201d-4bdf-844f-19a6b2e0d2df" alt="YOLO" title="YOLO">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115027840-de002300-9ecc-11eb-9dc0-54c5b13f8ec1.png" alt="NumPy" title="NumPy">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115028555-ac3b8c00-9ecd-11eb-9577-02ce32d064f9.png" alt="Pandas" title="Pandas">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115031856-4fda6b80-9ed1-11eb-854a-07b9741f7df2.png" alt="Plotly" title="Plotly">
