@@ -5,6 +5,8 @@
 </a>
 
 
+<img src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" alt="Profile Banner">
+
 ---
 
 ### 🚀 Knowledge is Power 💡
