@@ -8,7 +8,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif">
     <img src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" alt="Profile Banner">
   </picture>
 </div>
