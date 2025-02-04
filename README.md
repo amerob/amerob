@@ -15,9 +15,10 @@
 
 
 
-<div>
+<a href="https://github.com/amerob" target="_blank">
   <img src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" alt="Profile Banner">
-</div>
+</a>
+
 
 
 ---
