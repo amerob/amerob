@@ -13,14 +13,15 @@
   </picture>
 </div>
 
-<a>
-<img 
+<div align="center" style="pointer-events: none">
+  <img 
   src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" 
   alt="Profile Banner" 
   style="pointer-events: none" 
   draggable="false"
 >
-</a>
+</div>
+
 ---
 
 ### 🚀 Knowledge is Power 💡
