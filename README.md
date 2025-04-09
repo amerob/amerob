@@ -51,7 +51,7 @@
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115026359-130b7600-9ecb-11eb-876a-bb66a68a1d11.png" alt="Keras" title="Keras">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115026566-51a13080-9ecb-11eb-848c-1767a735c491.png" alt="PyTorch" title="PyTorch">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115027978-0851e080-9ecd-11eb-99fd-bb9298477b39.png" alt="OpenCV" title="OpenCV">
-  <img height="30" src="https://github.com/user-attachments/assets/4a234151-201d-4bdf-844f-19a6b2e0d2df" alt="YOLO" title="YOLO">
+  <img height="30" src="https://github.com/user-attachments/assets/0dcaf865-9c52-4e10-b9a4-5b6784b16bfd" alt="YOLO" title="YOLO">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115027840-de002300-9ecc-11eb-9dc0-54c5b13f8ec1.png" alt="NumPy" title="NumPy">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115028555-ac3b8c00-9ecd-11eb-9577-02ce32d064f9.png" alt="Pandas" title="Pandas">
   <img height="30" src="https://user-images.githubusercontent.com/67054356/115031856-4fda6b80-9ed1-11eb-854a-07b9741f7df2.png" alt="Plotly" title="Plotly">
