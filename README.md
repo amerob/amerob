@@ -88,10 +88,12 @@
 
 
 ### 🌱 Always Learning, Always Growing
+
+<!--
 - 🔭 Currently working on: **Advanced robotics perception systems**
 - 🌱 Learning: **Reinforcement Learning**, **Edge AI**, **ROS**
 - 👯 Open to collaborations in: **AI research**, **Robotics development**, and **Open Source Projects**
-
+-->
 
 ---
 
