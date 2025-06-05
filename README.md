@@ -17,8 +17,7 @@
 
 ### 🚀 Knowledge is Power 💡
 
-> Passionate about pushing the boundaries of **AI**, **ML**, and **Robotics Engineering**, with a particular focus on **autonomous systems**, **robotics perception**, and **AI-driven control systems**.
-
+> Passionate about pushing the boundaries of **Al** and **ML**, with a particular focus on **Generative Al**, **reinforcement learning**, **multimodal systems**, and **Edge Al** deployments."
 ---
 
 ## 🌐 Connect with Me 📬
