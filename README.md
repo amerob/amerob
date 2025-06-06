@@ -13,19 +13,18 @@
   </picture>
 </div>
 
----
 
 ### 🚀 Knowledge is Power 💡
 
 > Passionate about pushing the boundaries of **Al** and **ML**, with a particular focus on **Generative Al**, **reinforcement learning**, **multimodal systems**, and **Edge Al** deployments.
----
+
 
 ## 🌐 Connect with Me 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amerhhobbb)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amerob)  
 
----
+
 
 ## 💻 Languages & Frameworks
 
@@ -38,7 +37,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
----
+
 
 
 ## 🔧 Tools & Libraries
