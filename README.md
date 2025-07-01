@@ -8,9 +8,9 @@
 
 <div align="center">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif">
-    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif">
-    <img src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" alt="Profile Banner">
+    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/amerbanner.gif">
+    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/amerbanner.gif">
+    <img src="https://raw.githubusercontent.com/amerob/amerob/main/amerbanner.gif" alt="Profile Banner">
   </picture>
 </div>
 
