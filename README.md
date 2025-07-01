@@ -1,9 +1,8 @@
 # Hi 👋, I'm Amer Hussein
 <!--
 <a href="https://github.com/amerob" target="_blank">
-  <img src="https://github.com/user-attachments/assets/94f3f582-ba69-45a5-8c24-c0e75c407c5a" alt="Profile Banner">
+  <img src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" alt="Profile Banner">
 </a>
--->![mleng](https://github.com/user-attachments/assets/94f3f582-ba69-45a5-8c24-c0e75c407c5a)
 
 <!--  <img src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" alt="Profile Banner"> -->
 
