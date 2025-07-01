@@ -1,7 +1,7 @@
 # Hi 👋, I'm Amer Hussein
 <!--
 <a href="https://github.com/amerob" target="_blank">
-  <img src="https://raw.githubusercontent.com/amerob/amerob/main/banner.gif" alt="Profile Banner">
+  <img src="https://raw.githubusercontent.com/amerob/amerob/main/amerbanner.gif" alt="Profile Banner">
 </a>
 
 <!--  <img src="https://raw.githubusercontent.com/amerob/amerob/main/profilebanner.gif" alt="Profile Banner"> -->
