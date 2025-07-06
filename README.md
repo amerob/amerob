@@ -8,8 +8,8 @@
 
 <div align="center">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/amerbanner.gif">
-    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/amerbanner.gif">
+    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/ambanner.gif">
+    <source srcset="https://raw.githubusercontent.com/amerob/amerob/main/ambanner.gif">
     <img src="https://raw.githubusercontent.com/amerob/amerob/main/amerbanner.gif" alt="Profile Banner">
   </picture>
 </div>
