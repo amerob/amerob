@@ -24,7 +24,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amerhhobbb)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amerob)  
-
 [![Email](https://img.shields.io/badge/Email-amerjoahub%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amerjoahub@gmail.com)
 
 
