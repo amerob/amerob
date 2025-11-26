@@ -17,7 +17,7 @@
 
 ### 🚀 Knowledge is Power 💡
 
-> Passionate about pushing the boundaries of **Al** and **ML**, with a particular focus on **Generative Al**, **reinforcement learning**, **multimodal systems**, and **Edge Al** deployments.
+> Passionate about pushing the boundaries of **Al** and **ML**, with a particular focus on **Generative Al**, **Computer Vision**, **reinforcement learning**, **multimodal systems**, and **Edge Al** deployments.
 
 
 ## 🌐 Connect with Me 📬
