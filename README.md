@@ -24,6 +24,7 @@
 [![Email](https://img.shields.io/badge/Email-amerjoahub%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amerjoahub@gmail.com)
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amerhu)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF4F00?style=for-the-badge&logo=Huggingface&logoColor=white)](https://huggingface.co/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amerhhobbb)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amerob)  
 
